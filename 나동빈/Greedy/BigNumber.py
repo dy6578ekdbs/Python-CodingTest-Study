@@ -9,7 +9,6 @@
 # K는 항상 M보다 작거나 같다
 
 # N, M, K를 공백으로 구분해 입력받기
-from unittest import result
 
 
 n, m, k = map(int, input().split()) 
